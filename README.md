@@ -1,3 +1,3 @@
 # Laravel-demo
-This is my first repository
-author is vignesh
+This is my first repository.
+Author is vignesh
